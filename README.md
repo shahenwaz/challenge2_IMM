@@ -1,4 +1,4 @@
-# Unity Challenge 2
+# Unity Challenge 2 : Play Fetch
 
 Unity Challenge 2 is a project designed to enhance developers' skills in game development using the Unity engine. This challenge focuses on creating engaging gameplay mechanics, optimizing performance, and implementing user-friendly interfaces. It aims to provide a hands-on experience for developers to explore the capabilities of Unity while fostering creativity and problem-solving skills.
 
