@@ -2,6 +2,10 @@
 
 Unity Challenge 2 is a project designed to enhance developers' skills in game development using the Unity engine. This challenge focuses on creating engaging gameplay mechanics, optimizing performance, and implementing user-friendly interfaces. It aims to provide a hands-on experience for developers to explore the capabilities of Unity while fostering creativity and problem-solving skills.
 
+### Realtime Playable Link
+
+**Play live on Unity Play** - [Click Here!](https://play.unity.com/en/games/78a42073-5656-4cf3-ab37-892f99a73a66/unity-challenge-2-shahenwaz)
+
 ### Motivation
 
 The motivation behind this project is to encourage developers to deepen their understanding of Unity and game design principles. By participating in this challenge, developers can learn how to effectively utilize Unity's features to create immersive gaming experiences.
